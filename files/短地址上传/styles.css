@@ -508,71 +508,7 @@
   width:204px;
   white-space:nowrap;
 }
-#u222_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:41px;
-  height:28px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-weight:650;
-  font-style:normal;
-  font-size:20px;
-}
-#u222 {
-  border-width:0px;
-  position:absolute;
-  left:1758px;
-  top:42px;
-  width:41px;
-  height:28px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-weight:650;
-  font-style:normal;
-  font-size:20px;
-}
-#u222_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:41px;
-  white-space:nowrap;
-}
-#u223_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:36px;
-  height:36px;
-}
-#u223 {
-  border-width:0px;
-  position:absolute;
-  left:1712px;
-  top:38px;
-  width:36px;
-  height:36px;
-}
-#u223_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u224_img {
+#u222_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -580,7 +516,7 @@
   width:921px;
   height:159px;
 }
-#u224 {
+#u222 {
   border-width:0px;
   position:absolute;
   left:484px;
@@ -588,7 +524,7 @@
   width:921px;
   height:159px;
 }
-#u224_text {
+#u222_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -597,7 +533,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u225_div {
+#u223_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -615,7 +551,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u225 {
+#u223 {
   border-width:0px;
   position:absolute;
   left:535px;
@@ -626,7 +562,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u225_text {
+#u223_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -634,7 +570,7 @@
   width:80px;
   white-space:nowrap;
 }
-#u226_div {
+#u224_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -653,7 +589,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u226 {
+#u224 {
   border-width:0px;
   position:absolute;
   left:553px;
@@ -665,7 +601,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u226_text {
+#u224_text {
   border-width:0px;
   position:absolute;
   left:0px;
